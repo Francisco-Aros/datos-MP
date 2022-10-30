@@ -155,3 +155,4 @@ puntos_mapa = pdk.Deck(
 
 with col_map:
     st.write(puntos_mapa)
+
